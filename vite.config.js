@@ -8,4 +8,5 @@ export default defineConfig({
     globals: true,
     environment: 'jsdom',
   },
+  base: 'https://mp343hd.github.io/codespaces-react/'
 })
